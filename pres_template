@@ -1,6 +1,4 @@
-%STANDALONE%
-
-[size=200][u]%RELEASE_NAME%[/u][/size]
+%STANDALONE%[size=200][u]%RELEASE_NAME%[/u][/size]
 
 [size=150]Supportez les développeurs, achetez le jeu ! [url=%GAME_URL%]%GAME_URL%[/url][/size]
 
