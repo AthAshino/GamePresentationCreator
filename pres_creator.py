@@ -72,7 +72,7 @@ class INSTALLGUIDE:
                              "[/size]"
 
 
-IS_STANDALONE = "[b][size=200]Cette version est standalone, elle contient le jeu et tout son contenu jusqu'au %s ![/size][/b]\n\n"
+IS_STANDALONE = "[b][size=200]Cette version est standalone, elle contient le jeu et tout son contenu jusqu'au %s ![/size][/b]<br><br>"
 
 
 def get_tab_without_navigable_string(my_list):
